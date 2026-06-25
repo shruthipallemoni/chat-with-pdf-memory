@@ -285,7 +285,7 @@ python-dotenv
 CS & Engineering · RGUKT  
 AI Engineer · GenAI Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-lostmoon1513-181717?style=for-the-badge&logo=github)](https://github.com/lostmoon1513)
+[![GitHub](https://img.shields.io/badge/GitHub-shruthipallemoni-181717?style=for-the-badge&logo=github)](https://github.com/shruthipallemoni)
 
 </div>
 
