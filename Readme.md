@@ -136,7 +136,7 @@ chat-with-pdf-memory/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/lostmoon1513/chat-with-pdf-memory.git
+git clone https://github.com/shruthipallemoni/chat-with-pdf-memory.git
 cd chat-with-pdf-memory
 ```
 
